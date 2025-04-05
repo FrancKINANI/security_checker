@@ -1,0 +1,20 @@
+Rapport de Vulnérabilités:
+- 123456 → Mot de passe trop court (moins de 8 caractères)
+- password → Aucun chiffre détecté
+- 123456789 → Aucune majuscule détectée
+- qwerty → Mot de passe trop court (moins de 8 caractères)
+- abc123 → Mot de passe trop court (moins de 8 caractères)
+- password1 → Aucune majuscule détectée
+- 123123 → Mot de passe trop court (moins de 8 caractères)
+- admin → Mot de passe trop court (moins de 8 caractères)
+- letmein → Mot de passe trop court (moins de 8 caractères)
+- welcome → Mot de passe trop court (moins de 8 caractères)
+- monkey → Mot de passe trop court (moins de 8 caractères)
+- football → Aucun chiffre détecté
+- iloveyou → Aucun chiffre détecté
+- 1234 → Mot de passe trop court (moins de 8 caractères)
+- 1q2w3e4r → Aucune majuscule détectée
+- sunshine → Aucun chiffre détecté
+- master → Mot de passe trop court (moins de 8 caractères)
+- login → Mot de passe trop court (moins de 8 caractères)
+- passw0rd → Aucune majuscule détectée
